@@ -1,0 +1,2 @@
+- [ ] bubbletea app that loads a single image
+- [ ] controls on right and left
